@@ -22,4 +22,4 @@ st3 = st1 + " " + st2
 print(st3)
 
 a, b = 5, 6
-print(a,b)
+print(a, b)
