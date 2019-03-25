@@ -1,3 +1,4 @@
+# Loops
 primes = [2, 3, 5, 7]
 for number in primes:
     print(number)

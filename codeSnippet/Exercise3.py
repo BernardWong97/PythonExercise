@@ -1,3 +1,4 @@
+# String Formatting
 name = "Bernard"
 age = 20
 print("Hello, %s" % name)
@@ -6,6 +7,7 @@ print("%s's age is %d years old" % (name, age))
 myList = [1, 2, 3]
 print("This is a list: %s" % myList)
 
+# String Operations
 aString = "Hello World!"
 print(len(aString))
 print(aString.index("o"))

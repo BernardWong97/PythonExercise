@@ -1,3 +1,4 @@
+# Lists
 myList = []
 myList.append(1)
 myList.append(2)
@@ -7,11 +8,13 @@ print(myList[0])
 print(myList[1])
 print(myList[2])
 
+# Iterate list
 for x in myList:
     print(x)
 
 myList = [1, 2, 3]
 
+# Operators
 number = 1 + 2 * 3 / 4.0
 print(number)
 
